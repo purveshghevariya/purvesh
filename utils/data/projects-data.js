@@ -1,0 +1,38 @@
+export const projectsData = [
+    {
+        id: 1,
+        name: 'Darzi',
+        description: "Darzi - Tailor Management System is a mobile app developed using Flutter for the frontend and Node.js for the backend, designed to streamline operations for tailoring businesses. It offers features like order management, measurement tracking, appointment scheduling, and inventory management, all within a user-friendly interface. This project showcases my expertise in full-stack development, delivering a robust and efficient solution to enhance business operations in the tailoring industry.",
+        tools: ['Flutter','Dart','Node JS', 'Mongo DB'],
+        role: 'Flutter Developer & Node Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 2,
+        name: 'Expense Management System',
+        description: "Developed an Expense Management System using Flutter and Firebase, featuring a comprehensive admin panel. This project includes real-time data synchronization, user authentication, and secure cloud storage, providing efficient tracking and management of expenses. Leveraged Firebase for backend services, ensuring scalability and robust performance.",
+        tools: ['Flutter','Dart','Firebase'],
+        role: 'Flutter Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 3,
+        name: 'Gallery',
+        description: "Personal Gallery App Developed using Flutter, this Personal Gallery App allows users to organize and manage their photos efficiently. The app provides a sleek and intuitive interface for viewing, sorting, and searching through photo collections. It features smooth navigation and optimized performance for a seamless user experience on both Android and iOS devices. This project demonstrates my ability to create visually appealing and highly functional mobile applications using Flutter.",
+        tools: ['Flutter','Dart'],
+        role: 'Flutter Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 4,
+        name: 'E-commerce app',
+        description: "This E-commerce App, developed using Flutter and Firebase, offers a complete solution for online shopping. The app features a user-friendly interface for customers to browse products, add items to their cart, and make secure purchases. Integrated with Firebase, it ensures real-time data synchronization, efficient order processing, and user authentication. Additionally, an admin panel is included for managing products, orders, and users, providing full control over the e-commerce operations. This project highlights my skills in mobile app development, backend integration, and building scalable solutions using Flutter and Firebase.",
+        tools: ['Flutter','Dart', 'Firebase'],
+        role: 'Flutter Developer',
+        code: '',
+        demo: '',
+    },
+];
